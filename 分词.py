@@ -10,3 +10,4 @@ from collections import Counter
 counts = Counter(words)
 for word,count in counts.items():
     print(f"{word}:{count}")
+    print("test")
